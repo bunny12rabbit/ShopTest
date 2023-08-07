@@ -1,11 +1,8 @@
 {
-    "name": "Client",
+    "name": "Rating",
     "rootNamespace": "",
     "references": [
         "GUID:5990093d3b2d11749a3f6499a658d0d6",
-        "GUID:3abab9b967738c541946c72e9de5c490",
-        "GUID:8a9087e2d53107c4697a27f5fc10ee5e",
-        "GUID:6055be8ebefd69e48b49212b09b47b2f",
         "GUID:560b04d1a97f54a4e82edc0cbbb69285",
         "GUID:d8b63aba1907145bea998dd612889d6b"
     ],

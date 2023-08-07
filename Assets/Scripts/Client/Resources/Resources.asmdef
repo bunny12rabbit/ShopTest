@@ -1,8 +1,13 @@
 {
-    "name": "Health",
+    "name": "Resources",
     "rootNamespace": "",
     "references": [
-        "GUID:5990093d3b2d11749a3f6499a658d0d6"
+        "GUID:5990093d3b2d11749a3f6499a658d0d6",
+        "GUID:7d2f04cab2338724ca35b19577619d4c",
+        "GUID:3bbed50c8e4e87b40bdc0262acab0a87",
+        "GUID:26b572dea1081ff43a5e65435f1b17a0",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:d8b63aba1907145bea998dd612889d6b"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

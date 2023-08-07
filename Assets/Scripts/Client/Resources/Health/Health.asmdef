@@ -1,8 +1,10 @@
 {
-    "name": "Gold",
+    "name": "Health",
     "rootNamespace": "",
     "references": [
-        "GUID:5990093d3b2d11749a3f6499a658d0d6"
+        "GUID:5990093d3b2d11749a3f6499a658d0d6",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:d8b63aba1907145bea998dd612889d6b"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
